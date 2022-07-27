@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tuanle277, a software development addict, currently learning and experimenting with IOS mobile development
 - 👀 I’m interested in everything coding
-- 🌱 I’m currently learning Swift, Objective-C, mySQL, APIs
+- 🌱 I’m currently learning into IOS Mobile Development
 - 💞️ I’m looking to collaborate on creating applicable algorithms
 - 📫 How to reach me through mail -> letuanminh2707@gmail.com
 
