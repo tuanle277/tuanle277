@@ -1,4 +1,4 @@
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h1> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
@@ -7,6 +7,9 @@
 
 👋 I am Tuan (Kevin) Le 😃. I am from Greencastle, IN and currently doing my B.A at DePauw University, USA 🏫. I am addicted to exploring and learning  new things.
 ## 👯 Communities
+- President of DeRobotics 22'-23'
+- Honor Scholar
+- WGRE Dj
 
 ## ⚡ Technologies
 Talk to me about:
@@ -18,16 +21,16 @@ Talk to me about:
 - Creating scalable cloud architecture using **Google Cloud**.
 - Solving Data structure and algorithm questions in **Python, C++**.
 
-## Interests
+## 🎸 Interests
 - Natural language processing
-- Computer Vision
+- Computer Vision/ Object detection
 - Robotics
-- Time-series classification
+- Time-series classification using Transformer and Robotics sensor data
 - Human-machine-perception
  💞️ **I’m looking to collaborate on creating applicable AI models and robotics creations. 🔥And undergraduate research🔥
  
  
-## Hello World!! 🤔
+## 🤔 Hello World!! 
 - 💬 Ask me about anything and everything, literally, from sport ⚽️ to music 🎸!
 - 📫 Read my blogs: (Coming soon).
 - ⚡ Fun fact: I used to compete as a speedcuber.
