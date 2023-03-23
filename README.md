@@ -9,7 +9,7 @@
 
 👋 I am Tuan (Kevin) Le 😃. I am from Greencastle, IN and currently doing my B.A at DePauw University, USA 🏫. I am addicted to exploring and learning  new things. 
 
-Favorite quote: the more I learn, the less I know for real!
+## Favorite quote:  the more I learn, the less I know for real! ##
 
 ## 👯 Communities
 - President of DeRobotics 22'-23'
