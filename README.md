@@ -7,7 +7,10 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Tuan(Kevin)Le-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tuan-kevin-le-9809411b8/)](https://www.linkedin.com/in/tuan-kevin-le-9809411b8/) 
 [![Gmail Badge](https://img.shields.io/badge/-tuanle_2025@depauw.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tuanle_2025@depauw.edu)](mailto:tuanle_2025@depauw.edu)
 
-👋 I am Tuan (Kevin) Le 😃. I am from Greencastle, IN and currently doing my B.A at DePauw University, USA 🏫. I am addicted to exploring and learning  new things.
+👋 I am Tuan (Kevin) Le 😃. I am from Greencastle, IN and currently doing my B.A at DePauw University, USA 🏫. I am addicted to exploring and learning  new things. 
+
+Favorite quote: the more I learn, the less I know for real!
+
 ## 👯 Communities
 - President of DeRobotics 22'-23'
 - Honor Scholar
