@@ -9,13 +9,13 @@
 
 👋 I am Tuan (Kevin) Le 😃. I am from Greencastle, IN and currently doing my B.A in pre-engineering, computer science, and mathematics at DePauw University, USA 🏫. I am addicted to exploring and learning  new things. 
 
- **Favorite quote:  the more I learn, the less I know for real!**
+ **Favorite quote:  The more I learn, the less I know**
 
 ## 👯 Communities
 - President of DeRobotics 22'-23'
 - Honor Scholar
-- WGRE Dj
-
+- Science Research Fellow
+  
 ## ⚡ Technologies
 Talk to me about:
 - Front-end development using **HTML, Javascript, CSS, Bootstrap**.
