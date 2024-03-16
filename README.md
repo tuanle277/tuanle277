@@ -12,6 +12,7 @@
  **Favorite quote:  The more I learn, the less I know**
 
 ## 👯 Communities
+- President of Project X 23'-24'
 - President of DeRobotics 22'-23'
 - Honor Scholar
 - Science Research Fellow
