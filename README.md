@@ -5,7 +5,7 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Tuan(Kevin)Le-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tuan-kevin-le-9809411b8/)](https://www.linkedin.com/in/tuan-kevin-le-9809411b8/) 
-[![Gmail Badge](https://img.shields.io/badge/-tuanle_2025@depauw.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tuanle_2025@depauw.edu)](mailto:tuanle_2025@depauw.edu)
+[![Gmail Badge](https://img.shields.io/badge/-letuanminh2707@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:letuanminh2707@gmail.com)](mailto:letuanminh2707@gmail.com)
 
 👋 I am Tuan (Kevin) Le 😃. I am from Greencastle, IN and currently doing my B.A in pre-engineering, computer science, and mathematics at DePauw University, USA 🏫. I am addicted to exploring and learning  new things. 
 
