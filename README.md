@@ -4,10 +4,10 @@
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Tuan(Kevin)Le-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tuan-kevin-le-9809411b8/)](https://www.linkedin.com/in/tuan-kevin-le-9809411b8/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Tuan(Kevin)Le-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tuan-kevin-le/)](https://www.linkedin.com/in/tuan-kevin/) 
 [![Gmail Badge](https://img.shields.io/badge/-letuanminh2707@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:letuanminh2707@gmail.com)](mailto:letuanminh2707@gmail.com)
 
-👋 I am Tuan (Kevin) Le 😃. I am from Greencastle, IN and currently doing my B.A in pre-engineering, computer science, and mathematics at DePauw University, USA 🏫. I am addicted to exploring and learning  new things. 
+👋 I am Tuan (Kevin) Le 😃. I graduated with a BA in pre-engineering, computer science, and mathematics @ DePauw University, and is now attending for my BS and MS in Computer Science @ Washington University in St.Louis, USA 🏫. I am passionate about exploring and learning new things. 
 
  **Favorite quote:  The more I learn, the less I know**
 
@@ -28,6 +28,9 @@ Talk to me about:
 - Solving Data structure and algorithm questions in **Python, C++**.
 
 ## 🎸 Interests
+I wish to pursue Clinical AI for my doctorate degree, specifically, I dream of integrating SOTA AI technology in clinical settings to aid the treatment and diagnosis procedures for patients.
+
+- Graph Neural Network
 - Natural language processing
 - Computer Vision/ Object detection
 - Robotics
