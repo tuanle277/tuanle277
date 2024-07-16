@@ -7,6 +7,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Tuan(Kevin)Le-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tuan-kevin-le/)](https://www.linkedin.com/in/tuan-kevin/) 
 [![Gmail Badge](https://img.shields.io/badge/-letuanminh2707@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:letuanminh2707@gmail.com)](mailto:letuanminh2707@gmail.com)
 [![CV](https://img.shields.io/badge/CV-Download-brightgreen)](https://drive.google.com/file/d/1pyBC_CbgankJlsT9TP2hYNqzDBRFyNUR/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-Download-blue)](https://docs.google.com/document/d/16fsNdRfvZBbBgi6qyHlruaSiBKRSkwesz6MLlxMWjI0/edit?usp=sharing)
 
 👋 I am Tuan (Kevin) Le 😃. I graduated with a BA in pre-engineering, computer science, and mathematics @ DePauw University, and is now attending for my BS and MS in Computer Science @ Washington University in St.Louis, USA 🏫. I am passionate about exploring and learning new things. 
 
