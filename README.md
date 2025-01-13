@@ -9,15 +9,18 @@
 [![CV](https://img.shields.io/badge/CV-Download-brightgreen)](https://drive.google.com/file/d/1pyBC_CbgankJlsT9TP2hYNqzDBRFyNUR/view?usp=sharing)
 [![Resume](https://img.shields.io/badge/Resume-Download-blue)](https://drive.google.com/file/d/1LMoBRHyPQoIAoZRtqyftie3orgxfLSZd/view?usp=sharing)
 
-👋 I am Tuan (Kevin) Le 😃. I graduated with a BA in pre-engineering, computer science, and mathematics @ DePauw University, and is now attending for my BS and MS in Computer Science @ Washington University in St.Louis, USA 🏫. I am passionate about exploring and learning new things. 
+👋 I am Tuan (Kevin) Le 😃. I graduated with a BA in pre-engineering, computer science, and mathematics @ DePauw University, and is now attending for my BS and MS in Computer Science @ Washington University in St.Louis, USA 🏫. 
 
  **Favorite quote:  The more I learn, the less I know**
 
 ## 👯 Communities
+- Teaching Assistant @ McKelvey School of Engineering
+- Software @ WashU Robotics (WURC)
+- Graduate Researcher @ CSPL WashU
 - President of Project X 23'-24'
-- President of DeRobotics 22'-23'
-- Honor Scholar
-- Science Research Fellow
+- President of DePauw Robotics 22'-23'
+- Honor Scholar 22'-23'
+- Science Research Fellow 22'-24'
   
 ## ⚡ Technologies
 Talk to me about:
@@ -30,7 +33,7 @@ Talk to me about:
 - Solving Data structure and algorithm questions in **Python, C++**.
 
 ## 🎸 Interests
-I wish to pursue Clinical AI for my doctorate degree, specifically, I dream of integrating SOTA AI technology in clinical settings to aid the treatment and diagnosis procedures for patients.
+I wish to pursue AI for Healthcare for my doctorate degree, specifically, I dream of integrating SOTA AI technology in clinical settings to aid the treatment and diagnosis procedures for patients.
 
 - Graph Neural Network
 - Natural language processing
