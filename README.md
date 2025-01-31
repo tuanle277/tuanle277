@@ -41,13 +41,6 @@ I wish to pursue AI for Healthcare for my doctorate degree, specifically, I drea
 - Robotics
 - Time-series classification using Transformer and Robotics sensor data
 - Human-machine-perception
- 💞️ **I’m looking to collaborate on creating applicable AI models and robotics creations. 🔥And undergraduate research🔥
- 
- 
-## 🤔 Hello World!! 
-- 💬 Ask me about anything and everything, literally, from sport ⚽️ to music 🎸!
-- 📫 Read my blogs: (Coming soon).
-- ⚡ Fun fact: I used to compete as a speedcuber.
 
 ![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=tuanle277&hide=["issues"]&show_icons=true&bg_color=151515&text_color=daf7dc)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuanle277&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/tuanle277/github-readme-stats)
