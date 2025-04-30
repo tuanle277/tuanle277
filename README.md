@@ -4,7 +4,7 @@
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-[![Porfolio](https://porfolio-livid-kappa.vercel.app/)]
+[![Portfolio](https://porfolio-livid-kappa.vercel.app/)](https://porfolio-livid-kappa.vercel.app/)
 [![Linkedin Badge](https://img.shields.io/badge/-Tuan(Kevin)Le-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tuan-kevin-le/)](https://www.linkedin.com/in/tuan-kevin/) 
 [![Gmail Badge](https://img.shields.io/badge/-letuanminh2707@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:letuanminh2707@gmail.com)](mailto:letuanminh2707@gmail.com)
 [![CV](https://img.shields.io/badge/CV-Download-brightgreen)](https://drive.google.com/file/d/1pyBC_CbgankJlsT9TP2hYNqzDBRFyNUR/view?usp=sharing)
